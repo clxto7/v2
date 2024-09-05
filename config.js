@@ -19,9 +19,9 @@ global.ANTI_BOT = false;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
-global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2348138686232"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-R1aM6UbW"
+global.Owner = ["971547789287"]; //like 2347080968564 
+global.OwnerName =  "Clxto";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
